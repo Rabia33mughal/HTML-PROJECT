@@ -1,0 +1,47 @@
+div{
+    height: 200%;
+    width: 200%;
+    text-align: center;
+    margin-top: 100%;
+    margin-left: 100%;
+    margin-right: 100%;
+    margin-bottom: 100%;
+    
+}
+
+.pic{
+    width: 200px;
+    height:200px;
+}
+.pic1{
+    width:200px;
+    height: 200px;
+}
+.pic2{
+    height: 170px;
+    width: 170px;
+    border-radius: 100px;
+}
+
+h1{
+    color: navy;
+}
+h3{
+    color:darkblue;
+}
+h2{
+    color:red;
+}
+.test{
+
+color:black;
+
+}
+.test1{
+
+    color: black;
+}
+.colr8{
+    color: black;
+
+}
