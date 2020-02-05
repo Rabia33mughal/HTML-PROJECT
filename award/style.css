@@ -1,20 +1,25 @@
 div{
-    height: 200%;
-    width: 200%;
+background-image: url(sac.jpg);
     text-align: center;
-    margin-top: 100%;
-    margin-left: 100%;
-    margin-right: 100%;
-    margin-bottom: 100%;
-    
+    width: 25%;
+    margin-right: 60%;
+    padding:50px;
+    margin-left: 30%;
+    border-radius: 20%;
+}
+
+.cs{
+    font-weight: bolder;
+    margin-bottom: 20%;
+	
 }
 
 .pic{
-    width: 200px;
+    width: 150px;
     height:200px;
 }
 .pic1{
-    width:200px;
+    width:150px;
     height: 200px;
 }
 .pic2{
