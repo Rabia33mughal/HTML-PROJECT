@@ -1,0 +1,18 @@
+body {
+    background-image: url(flagc.jpg);
+}
+
+h1{
+    color: bisque;
+    size: 300px;
+}
+
+h2{
+    font-style: italic;
+    color: bisque;
+    size: 300px;
+}
+
+a{
+    list-style-type: circle;
+}

@@ -1,0 +1,34 @@
+img {
+    height: 50%;
+    width: 50%;
+}
+
+h2 {
+    height: 20%;
+    width: 30%;
+}
+
+body{
+    background-image: url(flagc.jpg);
+}
+
+div{
+    font-weight: bold;
+    font-style: italic;
+}
+h1{
+
+color: antiquewhite;
+font-size: 300%;
+font-style: oblique;
+
+}
+
+p{
+    font-weight: bolder;
+}
+
+#NH {
+    font-size: 200%;
+    color: darkgreen;
+}
