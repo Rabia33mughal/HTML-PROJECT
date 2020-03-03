@@ -1,0 +1,14 @@
+body{
+    background-image: url('new.jpeg');
+
+}div{
+    
+    height: max-content;
+    width: 60%;
+    margin-left: 20%;
+    color: cornsilk;
+}
+h2{
+    background-color: blue;
+    height: 30px;
+}
