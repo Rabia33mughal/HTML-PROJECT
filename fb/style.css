@@ -1,0 +1,15 @@
+.rabia1{ 
+    font-weight: 1000;
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.r1{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    display: inline-block;
+}
