@@ -1,0 +1,33 @@
+body {
+    background-color:palevioletred;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font: bold;
+    font-style: italic;
+  }
+p{
+    color:darkmagenta;
+}
+  img{
+      width: 250px;
+      height: 50%;
+  
+  }
+  
+  #borderimg {
+    border: 10px solid transparent;
+    padding: 25px;
+    border-image: url(border.png) 30 round;
+    color: black;
+    font: bold;
+
+  }
+
+
+    
+.col-3 col-s-3 menu{
+
+}
